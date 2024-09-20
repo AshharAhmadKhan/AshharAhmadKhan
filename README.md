@@ -1,5 +1,10 @@
 # 💫 About Me:
-I am currently working on Project IDX and several other small projects. I am learning Java and MATLAB while leveraging my existing knowledge of C. In addition, I am assisting with a research paper focused on software principles. One of my notable achievements is developing a comprehensive medicine management system for my uncle's hospital. This system tracks medicine inventory, manages additions and removals, and provides usage reports, which has significantly improved the hospital's operational efficiency. I am also actively seeking internships to further enhance my skills and gain practical experience
+BTech Computer Science Engineering student fueled by a passion for innovation and problem-solving. Armed with a knack for coding, software development prowess, and a hunger for knowledge, I'm on a mission to push boundaries and shape the future of technology.
+
+I am currently working on Project IDX and several other small projects. I am learning Java and MATLAB while leveraging my existing knowledge of C. In addition, I am assisting with a research paper focused on software principles. One of my notable achievements is developing a comprehensive medicine management system for my uncle's hospital. This system tracks medicine inventory, manages additions and removals, and provides usage reports, which has significantly improved the hospital's operational efficiency. I am also actively seeking internships to further enhance my skills and gain practical experience.
+
+💼 Interested in working together? Reach out to me via email.
+💬 Got a question or just curious about something? Feel free to ask!
 
 
 ## 🌐 Socials:
