@@ -2,7 +2,7 @@
 
 I don’t sell myself. I build systems that work.
 
-I’m a software developer who thinks in terms of **architecture**, **performance**, and **clarity**.  
+I’m a software developer aspirant who thinks in terms of **architecture**, **performance**, and **clarity**.  
 From building a full-stack application to manage patient records at my uncle’s clinic 🏥, to diving deep into **multithreading** and **decentralized systems** 🔗, I approach software with **curiosity** and **purpose**.
 
 ---
