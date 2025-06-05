@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👨‍💻 About Me  
+
 I don’t sell myself. I build systems that work.
 
 I’m a software developer who thinks in terms of **architecture**, **performance**, and **clarity**.  
