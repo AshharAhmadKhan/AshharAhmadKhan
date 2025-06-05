@@ -1,5 +1,30 @@
 # 💫 About Me:
-About Me<br>I don’t sell myself. I build systems that work.<br><br>I’m a software developer who thinks in terms of architecture, performance, and clarity. From building a full-stack application to manage patient records at my uncle’s clinic, to diving deep into multithreading and decentralized systems, I approach software with curiosity and purpose.<br><br>What I Do:<br><br>Develop clean, maintainable code with a strong focus on architecture and scalability<br><br>Treat performance as a design principle, not an afterthought<br><br>Explore decentralized applications and blockchain, especially in finance, healthcare, and logistics<br><br>Collaborate with thoughtful teams who value precision, communication, and shared growth<br><br>How I Think:<br><br>Efficiency and responsiveness are core to my engineering mindset<br><br>I question systems and design for improvement—whether it’s code structure, workflows, or infrastructure<br><br>I read classic literature in my downtime—authors like Orwell, Dostoevsky, and Hemingway taught me that great writing and great code share the same values: clarity, intention, and precision<br><br>Where It Started:<br><br>My passion for code began in school, writing layered Java programs that went well beyond the curriculum. Since then, I’ve been pushing boundaries—not just to build projects, but to solve real-world problems with smart, resilient software.<br><br>TL;DR: I build systems that compile, scale, and matter. I learn until I hit the edge cases—and then I keep going.<br><br>Let me know if you want to tweak the tone further (e.g., more formal, more casual, shorter) or add a tech stack section.
+## 👨‍💻 About Me  
+I don’t sell myself. I build systems that work.
+
+I’m a software developer who thinks in terms of **architecture**, **performance**, and **clarity**.  
+From building a full-stack application to manage patient records at my uncle’s clinic 🏥, to diving deep into **multithreading** and **decentralized systems** 🔗, I approach software with **curiosity** and **purpose**.
+
+---
+
+## 🚀 What I Do  
+- 🧱 Develop **clean, maintainable code** with a strong focus on **architecture** and **scalability**  
+- ⚡ Treat **performance** as a design principle — not an afterthought  
+- 🔐 Explore **decentralized applications** and **blockchain**, especially in **finance**, **healthcare**, and **logistics**  
+- 🤝 Collaborate with thoughtful teams who value **precision**, **communication**, and **shared growth**
+
+---
+
+## 🧠 How I Think  
+- ⚙️ **Efficiency** and **responsiveness** are core to my engineering mindset  
+- 🧭 I question systems and design for **continuous improvement** — whether it’s **code structure**, **workflows**, or **infrastructure**  
+- 📚 I read classic literature in my downtime — authors like **Orwell**, **Dostoevsky**, and **Hemingway** taught me that great writing and great code share the same values: **clarity**, **intention**, and **precision**
+
+---
+
+## 🌱 Where It Started  
+My passion for code began in school, writing layered **Java** programs that went well beyond the curriculum.  
+
 
 
 ## 🌐 Socials:
