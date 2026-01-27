@@ -1,5 +1,3 @@
-# 👋 Ashhar Ahmad Khan
-
 Backend engineer building scalable systems with Java, Python, and TypeScript.
 
 ## 🎯 Current Focus
@@ -8,9 +6,9 @@ Backend engineer building scalable systems with Java, Python, and TypeScript.
 - Exploring distributed systems and API design
 
 ## 🛠️ Tech Stack
-**Backend:** Java (Spring Boot), Python (FastAPI), TypeScript (Node.js)  
-**Databases:** MySQL, PostgreSQL, MongoDB  
-**Tools:** Docker, Git, Maven, Gradle
+- **Backend:** Java (Spring Boot), Python (FastAPI), TypeScript (Node.js)  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Tools:** Docker, Git, Maven, Gradle
 
 ## 📂 Notable Projects
 - **[LegalifAI](https://github.com/AshharAhmadKhan/LegalifAI)** - AI-powered legal document assistant (TypeScript, Python, FastAPI)
