@@ -19,4 +19,3 @@ Backend engineer building scalable systems with Java, Python, and TypeScript.
 ## 📫 Connect
 - **Email:** itzashhar@gmail.com
 - **LinkedIn:** [linkedin.com/in/ashhar-ahmad-khan](https://linkedin.com/in/ashhar-ahmad-khan)
-```
