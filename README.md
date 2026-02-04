@@ -14,8 +14,13 @@ Backend-focused engineering student building scalable systems with Java, Python,
 
 ## Notable Projects
 
-- **BrewAlgo** - Competitive programming judge with Docker-isolated code execution, REST APIs, and WebSocket-based real-time judging (Java, Spring Boot, React)
-- **LegalifAI** - Privacy-first AI legal assistant for document summarization and comparison (TypeScript, Python, FastAPI)
+- **[BrewAlgo](https://github.com/AshharAhmadKhan/BrewAlgo)**  
+  Competitive programming judge with Docker-isolated code execution, REST APIs, and WebSocket-based real-time judging  
+  *(Java, Spring Boot, React)*
+
+- **[LegalifAI](https://github.com/AshharAhmadKhan/LegalifAI)**  
+  Privacy-first AI legal assistant for document summarization and comparison  
+  *(TypeScript, Python, FastAPI)*
 
 ## Connect
 
