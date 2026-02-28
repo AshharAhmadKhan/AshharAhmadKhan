@@ -1,28 +1,28 @@
-Backend-focused engineering student building scalable systems with Java, Python, and TypeScript.
+# Ashhar Ahmad Khan
 
-## Current Focus
+Backend engineering student with merged PRs in Apache Fineract, Apache Fory, and Hiero SDK.
+I build systems that work in the real world — not just demos.
 
-- Contributing to Apache SeaTunnel (multi-table sink support) and Hiero SDK (Python bindings)
-- Building production-grade systems with Spring Boot and Docker
-- Studying distributed systems and API design patterns
+## What I'm working on
 
-## Tech Stack
+- Contributing to **Apache Fineract** (active PRs: PostgreSQL schema fixes, security improvements)
+- Contributing to **Apache Fory** (IEEE 754 float16 support in Rust runtime)
+- Contributing to **Hiero SDK** (Python bindings, CI automation)
+- Preparing for **GSoC 2026**
 
-**Backend:** Java (Spring Boot), Python (FastAPI), TypeScript (Node.js)  
-**Databases:** MySQL, PostgreSQL, MongoDB  
-**Tools:** Docker, Git, Maven, Gradle
+## Stack
 
-## Notable Projects
+Java · Spring Boot · Python · FastAPI · TypeScript · Docker · PostgreSQL · AWS
 
-- **[BrewAlgo](https://github.com/AshharAhmadKhan/BrewAlgo)**  
-  Competitive programming judge with Docker-isolated code execution, REST APIs, and WebSocket-based real-time judging  
-  *(Java, Spring Boot, React)*
+## Projects
 
-- **[LegalifAI](https://github.com/AshharAhmadKhan/LegalifAI)**  
-  Privacy-first AI legal assistant for document summarization and comparison  
-  *(TypeScript, Python, FastAPI)*
+**[MeetingMind](https://github.com/AshharAhmadKhan/meetingmind)** — AWS AIdeas 2026 Top-1000 Semi-Finalist  
+Serverless meeting intelligence platform on 14 AWS services. Turns conversations into tracked commitments.  
+[Live Demo](https://dcfx593ywvy92.cloudfront.net/login)
 
-## Connect
+**[BrewAlgo](https://github.com/AshharAhmadKhan/BrewAlgo)**  
+Online judge built from scratch. Docker-isolated execution, WebSocket verdicts, Clean Architecture.
 
-**Email:** itzashhar@gmail.com  
-**LinkedIn:** [linkedin.com/in/ashhar-ahmad-khan](https://linkedin.com/in/ashhar-ahmad-khan)
+## Contact
+
+itzashhar@gmail.com · [LinkedIn](https://linkedin.com/in/ashhar-ahmad-khan)
