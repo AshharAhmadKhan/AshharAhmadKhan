@@ -5,9 +5,9 @@ I build systems that work in the real world — not just demos.
 
 ## What I'm working on
 
-- Contributing to **Apache Fineract** (active PRs: PostgreSQL schema fixes, security improvements)
-- Contributing to **Apache Fory** (IEEE 754 float16 support in Rust runtime)
-- Contributing to **Hiero SDK** (Python bindings, CI automation)
+- Contributing to **Apache Fineract** 
+- Contributed to **Apache Fory** (IEEE 754 float16 support in Rust runtime)
+- Contributed to **Hiero SDK** (Python bindings, CI automation)
 - Preparing for **GSoC 2026**
 
 ## Stack
