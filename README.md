@@ -8,7 +8,7 @@ Fourth-year CS student at Jamia Hamdard, New Delhi. I have a habit of reading co
 
 An empirical paper studying three debt instances in Apache Fineract that persisted four to eleven years each, built directly from contribution work. The central argument is that visibility, not severity, determines how technical and security debt gets detected and retired.
 
-Preprint: https://doi.org/10.5281/zenodo.20539369  
+Preprint: https://doi.org/10.5281/zenodo.20539368
 Replication package: https://github.com/AshharAhmadKhan/debt-visibility-fineract
 
 ## Open Source
