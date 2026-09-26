@@ -7,16 +7,20 @@ Backend engineering student at Jamia Hamdard, New Delhi, seeking software engine
 **Apache Fineract** - 40+ merged pull requests, contributor since February 2026.
 
 - Removed the entire self-service module (142 files, ~11,000 lines, a single commit) after a security audit found multiple OWASP-class vulnerabilities rooted in one architectural decision.
-- Identified multiple API endpoints silently failing for 3–13 years, some stubbed since their first commit. Traced each through Git history, raised them with the development community, and removed them after consensus.
+- Identified multiple API endpoints silently failing for 3-13 years, some stubbed since their first commit. Traced each through Git history, raised them with the development community, and removed them after consensus.
 - Implemented undo/adjust support for Fixed Deposit transactions, batched N+1 queries across several services, hardened Feign method names across five modules, and fixed a range of PostgreSQL compatibility and NullPointerException issues.
+
+---
 
 ## Research
 
 **Stewardship Gaps and Debt Visibility: A Multi-Case Study of Latent Technical Debt in Apache Fineract** - preprint
 
-An empirical study of three technical-debt instances in Apache Fineract that persisted 4–11 years each, built from the author's own contribution work. Argues that visibility, not severity, determines how debt gets detected and retired.
+An empirical study of three technical-debt instances in Apache Fineract that persisted 4-11 years each, built from the author's own contribution work. Argues that visibility, not severity, determines how debt gets detected and retired.
 
 [Preprint](https://doi.org/10.5281/zenodo.20539368) · [Replication package](https://github.com/AshharAhmadKhan/debt-visibility-fineract)
+
+---
 
 ## Projects
 
@@ -32,9 +36,13 @@ Online coding judge with Docker-isolated sandboxed execution, strict CPU/memory 
 
 Offline-first accessibility platform for dyslexic users. Simplifies text, PDFs, and images across 7 languages using Gemma 4 vision, running fully on-device via Ollama. Chrome extension applies dyslexia-friendly formatting across every website with no setup.
 
+---
+
 ## Stack
 
 Java, Python, JavaScript, SQL, Spring Boot, REST APIs, WebSockets, Docker, React, PostgreSQL, MySQL, DynamoDB, AWS (Lambda, Bedrock, Transcribe, Cognito, CloudFront, SES)
+
+---
 
 ## Contact
 
